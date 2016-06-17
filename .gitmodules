@@ -1,0 +1,6 @@
+[submodule "MQTT"]
+	path = MQTT
+	url = https://github.com/hirotakaster/MQTT
+[submodule "aJson"]
+	path = aJson
+	url = https://github.com/interactive-matter/aJson
